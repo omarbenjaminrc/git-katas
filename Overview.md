@@ -6,7 +6,7 @@
 
 ## Basic Git Katas in Suggested Order
 
-1*. [basic-commits](basic-commits/README.md) - Very basic creation of commits.
+1. [basic-commits](basic-commits/README.md) - Very basic creation of commits.
 2. [basic-staging](basic-staging/README.md) - Interacting with the stage (index).
 3. [basic-branching](basic-branching/README.md) - The first stride into branching.
 4. [ff-merge](ff-merge/README.md) - A tour around the most trivial of merges.
