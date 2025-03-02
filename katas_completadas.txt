@@ -1,1 +1,1 @@
-cuarta kata "ff-merge" completada
+kata 6 "merge-conflict" realizada
