@@ -1,1 +1,3 @@
-kata 6 "merge-conflict" realizada
+kata 7 "merge-mergesort" terminada
+kata 8 "rebase_branch" terminada
+kata 9 "basic-revert" terminada
