@@ -1,3 +1,6 @@
 kata 7 "merge-mergesort" terminada
 kata 8 "rebase_branch" terminada
 kata 9 "basic-revert" terminada
+kata 10 "reset" terminada
+kata 11 "basic cleaning" terminada
+kata 12 "amending commits" terminada
