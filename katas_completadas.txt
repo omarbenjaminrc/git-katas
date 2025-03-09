@@ -4,3 +4,5 @@ kata 9 "basic-revert" terminada
 kata 10 "reset" terminada
 kata 11 "basic cleaning" terminada
 kata 12 "amending commits" terminada
+kata 13 "reorder the history" terminada
+kata 14 "squachit" terminada
