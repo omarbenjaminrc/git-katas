@@ -6,3 +6,5 @@ kata 11 "basic cleaning" terminada
 kata 12 "amending commits" terminada
 kata 13 "reorder the history" terminada
 kata 14 "squachit" terminada
+kata 15 "advance interactive rebase" terminada
+kata 16 "basic stashing" terminada
