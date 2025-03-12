@@ -9,3 +9,4 @@ kata 14 "squachit" terminada
 kata 15 "advance interactive rebase" terminada
 kata 16 "basic stashing" terminada
 kata 17 "gitignore" terminada
+kata 18 "submodules" terminada
