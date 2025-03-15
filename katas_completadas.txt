@@ -10,3 +10,6 @@ kata 15 "advance interactive rebase" terminada
 kata 16 "basic stashing" terminada
 kata 17 "gitignore" terminada
 kata 18 "submodules" terminada
+kata 19 "git-tag" terminada
+kata 20 "commit-on-wrong-branch " terminada
+kata 21 "commit-on-wrong-branch-2 " terminada
