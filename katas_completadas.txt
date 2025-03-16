@@ -13,3 +13,4 @@ kata 18 "submodules" terminada
 kata 19 "git-tag" terminada
 kata 20 "commit-on-wrong-branch " terminada
 kata 21 "commit-on-wrong-branch-2 " terminada
+kata 22 "save my commit" terminada
